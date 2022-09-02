@@ -9,11 +9,6 @@ header {
   position: fixed;
 }
  
-p {
-  padding: 130px 0px;
-  height: 500px;
-}
- 
 .title {
   margin-right: auto;
 }
@@ -27,9 +22,11 @@ p {
 body {
   background-color: #fffeee;
 }
+
 h1 {
   color: #0bd;
 }
+
 p {
   font-size: 20px;
 }
